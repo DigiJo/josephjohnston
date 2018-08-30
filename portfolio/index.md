@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>I'm Joseph Johnston</strong>, an SEO and Web Designer from Beautiful
+hero_text: "<strong>I'm Joe Johnston</strong>, an SEO and Web Designer from Beautiful
   Belfast."
 title: Joseph Johnston
 
