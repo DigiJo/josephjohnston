@@ -5,7 +5,7 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
-  path: my-life
+  path: portfolio/my-life
   label: My Life
   create: all
   match: "**/*"
