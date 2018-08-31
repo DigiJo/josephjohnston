@@ -1,15 +1,16 @@
 module.exports = {
-  title: "Acme",
-  description: "creative agency",
+  title: "Joe Johnston - Belfast's Leading Digital Marketing Consultant",
+  description: "ROI focused SEO, COntent Web Design consultant, Joe Johnston. Freelancer covering Belfast and Northern Ireland",
   base: "/",
   themeConfig: {
     logo: "/upload/logo.svg",
-    footer: "Ⓒ Acme",
+    footer: "Ⓒ Joe Johnston",
     nav: [
       { text: "Works", link: "/", position: "left", external: false },
-      { text: "Instagram", link: "https://www.instagram.com/its.nwa/", position: "left", external: true },
-      { text: "Say hi!", link: "mailto:sayhi@mydomain.com", position: "right", external: true },
+      { text: "Instagram", link: "https://www.instagram.com/joejohnston1989/", position: "left", external: true },
+      { text: "Say hi!", link: "mailto:hi@digijo.co.uk", position: "right", external: true },
       { text: 'Journal', link: '/journal/', position: 'right', external: false },
+      { text: 'My life', link: '/my-life/', position: 'right', external: false },
     ]
   },
   head: [
