@@ -6,8 +6,7 @@
     <div class="container">
 
       <!-- Works list -->
-      <div
-        v-if="$route.path === '/'"
+      <div v-if="$route.path === '/'"
         :style="{
           marginTop: '14vw'
         }"
@@ -32,6 +31,11 @@
 
       <!-- Single journal -->
       <div v-if="isSingleJournal" class="single-journal">
+        <Content/>
+      </div>
+      
+      <!-- My Life -->
+      <div v-if="$route.path === '/my-life' class="single-journal">
         <Content/>
       </div>
 
