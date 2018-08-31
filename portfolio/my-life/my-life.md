@@ -1,7 +1,7 @@
 ---
 title: My Life
 date: 2018-08-31 14:26:07 +0000
-excerpt: My Life
+excerpt: The Monkeys and English Swally
 
 ---
 I grew around the Whitewell area in North Belfast. Some might call it Newtownabbey but they're not the type of people you want to trust.
