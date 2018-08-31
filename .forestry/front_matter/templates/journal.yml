@@ -20,3 +20,5 @@ fields:
   type: datetime
   config:
     required: true
+pages:
+- my-life/my-life.md
