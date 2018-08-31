@@ -35,7 +35,7 @@
       </div>
       
       <!-- My Life -->
-      <div v-if="$route.path === '/my-life' class="single-journal">
+      <div v-if="$route.path === '/my-life'" class="single-journal">
         <Content/>
       </div>
 
