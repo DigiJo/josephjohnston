@@ -2,13 +2,16 @@
 title: Core
 date: 2018-08-09 18:05:37 +0000
 thumbnail: "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
-year: 2016
-description: subtitle
+year: 2018
+description: In-house Marketing
 categories:
-- print
+- Web design
+- SEO
+- Content Marketing
+- Email Marketing
 
 ---
-# Project two
+# Core
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
