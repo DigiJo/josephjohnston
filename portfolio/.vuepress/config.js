@@ -1,6 +1,6 @@
 module.exports = {
   title: "Joe Johnston - Belfast's Leading Digital Marketing Consultant",
-  description: "ROI focused SEO, COntent Web Design consultant, Joe Johnston. Freelancer covering Belfast and Northern Ireland",
+  description: "ROI focused digital Marketing Consultant, Joe Johnston. SEO and Web Design Freelancer covering Belfast and Northern Ireland",
   base: "/",
   themeConfig: {
     logo: "/upload/logo.svg",
