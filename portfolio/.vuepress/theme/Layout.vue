@@ -28,6 +28,11 @@
       <div v-if="$route.path === '/journal/'" class="journal-list">
         <Content />
       </div>
+      
+       <!-- my-life -->
+      <div v-if="$route.path === '/my-life'" class="single-journal">
+        <Content />
+      </div>
 
       <!-- Single journal -->
       <div v-if="isSingleJournal" class="single-journal">
