@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: I'm<strong> Joe Johnston</strong>.<br>Belfast's leading digital marketing
-  consultant.<br>I help people find your business and become your friend.<br>
+hero_text: I'm<strong> Joe Johnston.</strong> And I use digital marketing to funnel
+  new customers to your business.<br>
 title: Joseph Johnston
 
 ---
