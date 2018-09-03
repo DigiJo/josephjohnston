@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: I'm<strong> Joe Johnston</strong>, a digital marketing consultant from
-  beautiful Belfast.
+hero_text: I'm<strong> </strong>the real<strong> Joe Johnston</strong>.<br>And I can
+  shepherd customers to your business.<br>
 title: Joseph Johnston
 
 ---
