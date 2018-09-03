@@ -1,7 +1,8 @@
 ---
 works_index: true
-hero_text: I'm<strong> </strong>the real<strong> Joe Johnston</strong>.<br>And I can
-  shepherd customers to your business.<br>
+hero_text: I'm<strong> </strong>the real<strong> Joe Johnston</strong>.<br>Belfast's
+  leading digital marketing consultant.<br>I help people find your business and become
+  your friend.<br>
 title: Joseph Johnston
 
 ---
