@@ -33,11 +33,6 @@
       <div v-if="isSingleJournal" class="single-journal">
         <Content/>
       </div>
-      
-      <!-- My Life -->
-      <div v-if="$route.path === '/my-life' class="single-journal">
-        <Content/>
-      </div>
 
     </div>
 
