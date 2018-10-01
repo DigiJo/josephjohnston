@@ -5,6 +5,14 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
+  path: portfolio/my-life
+  label: My Life
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - journal
+- type: directory
   path: portfolio/works
   label: Works
   create: all

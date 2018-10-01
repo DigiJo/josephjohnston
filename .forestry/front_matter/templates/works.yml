@@ -4,7 +4,7 @@ hide_body: false
 is_partial: false
 fields:
 - name: title
-  default: ''
+  default: Joseph Johnston's Work
   label: Title
   hidden: false
   type: text
@@ -18,11 +18,12 @@ fields:
   label: Description
   config:
     required: true
+  default: My work, projects and everything I'm putting my brain power into.
 - type: tag_list
   name: categories
   label: Categories
 - name: year
-  default: 
+  default: '2018'
   label: Year
   hidden: false
   type: number
@@ -35,3 +36,4 @@ fields:
   type: datetime
   config:
     required: true
+- type: text
