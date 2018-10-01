@@ -142,7 +142,7 @@
   }
 
   h1 {
-    font-family: Lora, "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-family: Lora;
     font-size: 3rem;
     line-height: 1.15;
     font-weight: 300;
