@@ -10,7 +10,6 @@ module.exports = {
       { text: "Instagram", link: "https://www.instagram.com/joejohnston1989/", position: "left", external: true },
       { text: "Say hi!", link: "mailto:hi@digijo.co.uk", position: "right", external: true },
       { text: 'Journal', link: '/journal/', position: 'right', external: false },
-      { text: 'My life', link: '/my-life/', position: 'right', external: false },
     ]
   },
   head: [
