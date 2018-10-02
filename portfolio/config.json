@@ -1,0 +1,33 @@
+{
+    "title": "Joe Johnston - Belfast Digital Marketing Consultant and BudiBase Founder",
+    "description": "Growth focused digital Marketing Consultant, Joe Johnston. SEO and Web Design Freelancer covering Belfast and Northern Ireland",
+    "logo": "/upload/logo.svg",
+    "footer": "Ⓒ Joe Johnston",
+    "favicon": "favicon-32x32.png",
+    "navigation": [
+      {
+        "text": "Works",
+        "link": "/",
+        "position": "left",
+        "external": false
+      },
+      {
+        "text": "Instagram",
+        "link": "https://www.instagram.com/joejohnston1989/",
+        "position": "left",
+        "external": true
+      },
+      {
+        "text": "Say hi!",
+        "link": "mailto:hi@digijo.co.uk",
+        "position": "right",
+        "external": true
+      },
+      {
+        "text": "Journal",
+        "link": "/journal/",
+        "position": "right",
+        "external": false
+      }
+    ]
+  }
