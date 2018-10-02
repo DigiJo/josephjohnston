@@ -16,11 +16,11 @@ export default {
 <style scoped>
   .title {
     text-align: left;
-    font-size: 3rem;
+    font-size: calc(21px + (36 - 14) * ((100vw - 300px) / (1600 - 300)));
     font-weight: 300;
     line-height: 1.25;
     letter-spacing: 0.1rem;
-    width: 800px;
+    width: auto;
     max-width: 100%;
     margin: 25vw auto 7vw auto;
   }
