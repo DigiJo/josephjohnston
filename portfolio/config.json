@@ -8,13 +8,13 @@
       {
         "text": "Works",
         "link": "/",
-        "position": "right",
+        "position": "left",
         "external": false
       },
       {
         "text": "Instagram",
         "link": "https://www.instagram.com/joejohnston1989/",
-        "position": "right",
+        "position": "left",
         "external": true
       },
       {
