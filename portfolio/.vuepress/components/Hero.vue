@@ -16,9 +16,9 @@ export default {
 <style scoped>
   .title {
     text-align: left;
-    font-size: calc(21px + (36 - 14) * ((100vw - 300px) / (1600 - 300)));
+    font-size: calc(21px + (36 - 20) * ((100vw - 300px) / (1600 - 300)));
     font-weight: 300;
-    line-height: 1.25;
+    line-height: 1.3;
     letter-spacing: 0.1rem;
     width: auto;
     max-width: 100%;
