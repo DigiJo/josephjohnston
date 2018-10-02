@@ -16,13 +16,13 @@ export default {
 <style scoped>
   .title {
     text-align: left;
-    font-size: calc(21px + (48 - 14) * ((100vw - 300px) / (1600 - 300)));
+    font-size: calc(21px + (36 - 20) * ((100vw - 300px) / (1600 - 300)));
     font-weight: 300;
-    line-height: 1.25;
+    line-height: 1.3;
     letter-spacing: 0.1rem;
     width: 800px;
     max-width: 100%;
-    margin: 25vw auto 7vw auto;
+    margin: 35vw auto 17vw auto;
   }
 
   @media screen and (min-width: 600px) {
