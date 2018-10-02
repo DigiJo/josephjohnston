@@ -21,6 +21,3 @@ fields:
   type: datetime
   config:
     required: true
-pages:
-- portfolio/my-life/my-life.md
-- portfolio/my-life/index.md
