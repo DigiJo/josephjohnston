@@ -13,3 +13,5 @@ description: In-house Marketing
 I'm fully responsible for all Core's marketing. I develop and implement strategies to generate leads and position the company as thought leaders. 
 
 ![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
+
+![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
