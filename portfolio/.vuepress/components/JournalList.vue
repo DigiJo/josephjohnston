@@ -1,18 +1,10 @@
 <template>
   <div class="journal-list">
-  
-      <router-link
-      :to="post.path"
-      tag="div"
-      v-for="post in posts"
-      :key="post.title"
-      class="post"
-      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
-    >
-
     <div v-for="post in journal" :key="post.title" class="post">
       <router-link tag="h2" :to="post.path" class="title">{{ post.frontmatter.title }}</router-link>
       <p>{{ post.frontmatter.excerpt }}</p>
+      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
+
     </div>
   </div>
 </template>
