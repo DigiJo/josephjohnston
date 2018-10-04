@@ -1,4 +1,5 @@
 <template>
+  <div class="journal-list">
     <div v-for="post in journal" :key="post.title" class="post">
       <router-link tag="h1" :to="post.path" class="title">{{ post.frontmatter.title }}</router-link>
       <p>{{ post.frontmatter.excerpt }}</p>
@@ -43,7 +44,7 @@
     .post {
     position: relative;
     width: 100%;
-    height: 40vh;
+    height: 70vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
