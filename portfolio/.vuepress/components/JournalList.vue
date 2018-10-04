@@ -3,6 +3,7 @@
     <div v-for="post in journal" :key="post.title" class="post">
       <router-link tag="h1" :to="post.path" class="title">{{ post.frontmatter.title }}</router-link>
       <p>{{ post.frontmatter.excerpt }}</p>
+      <p>{{ post.frontmatter.date }}</p>
       <img :src="post.frontmatter.thumbnail">
     </div>
   </div>
@@ -33,7 +34,7 @@
     padding: 1rem 1rem 1rem 1rem;
   }
   .post:last-of-type {
-    border: 0;
+    border: 1px solid #eee;
   }
   .post h1 {
     margin: 0 0 1rem 0;
