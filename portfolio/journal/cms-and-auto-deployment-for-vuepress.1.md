@@ -7,9 +7,10 @@ thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
 year: 2018
 ---
 
-![](/upload/photo-1490013616775-3ca8865fb129.jpeg)
 
 # Content management and auto deployment for Vuepress
+
+![](/upload/photo-1490013616775-3ca8865fb129.jpeg)
 
 Let's check out how we can automatically deploy our vuepress sites and manage the content from within Forestry.
 
