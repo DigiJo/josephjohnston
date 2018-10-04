@@ -25,7 +25,7 @@
   }
   .post {
     padding: 2rem 0;
-    border: 1px solid #eee;
+    border-bottom: 1px solid #eee;
   }
   .post:last-of-type {
     border: 0;
@@ -43,7 +43,7 @@
     .post {
     position: relative;
     width: 100%;
-    height: 70vh;
+    height: 40vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
