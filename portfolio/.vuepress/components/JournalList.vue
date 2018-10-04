@@ -45,7 +45,7 @@
     opacity: 0.6;
   }
   .post p {
-    margin: 0;
+    margin: 0 0 1rem 0;
     color: #333;
   }
     .post {
