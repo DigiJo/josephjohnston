@@ -1,6 +1,4 @@
 <template>
-
-
     <div v-for="post in journal" :key="post.title" class="post">
       <router-link tag="h1" :to="post.path" class="title">{{ post.frontmatter.title }}</router-link>
       <p>{{ post.frontmatter.excerpt }}</p>
@@ -27,7 +25,7 @@
   }
   .post {
     padding: 2rem 0;
-    border-bottom: 1px solid #eee;
+    border: 1px solid #eee;
   }
   .post:last-of-type {
     border: 0;
