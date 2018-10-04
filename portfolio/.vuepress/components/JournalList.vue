@@ -30,7 +30,7 @@
   }
   .post {
     border: 1px solid #eee;
-    padding: 2rem 0;
+    padding: 2rem 2rem 2rem 2rem;
   }
   .post:last-of-type {
     border: 0;
@@ -54,5 +54,8 @@
     background-repeat: no-repeat;
     margin-bottom: 5vw;
     cursor: pointer;
+  }
+  .post.frontmatter.thumbnail {
+    height: 50vh;
   }
 </style>
