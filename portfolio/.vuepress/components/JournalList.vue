@@ -48,14 +48,13 @@
     .post {
     position: relative;
     width: 100%;
-    height: 70vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin-bottom: 5vw;
     cursor: pointer;
   }
-  .post.frontmatter.thumbnail {
+  .img {
     height: 50vh;
   }
 </style>
