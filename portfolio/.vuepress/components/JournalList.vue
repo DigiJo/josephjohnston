@@ -30,13 +30,14 @@
   }
   .post {
     border: 1px solid #eee;
-    padding: 2rem 2rem 2rem 2rem;
+    padding: 1rem 1rem 1rem 1rem;
   }
   .post:last-of-type {
     border: 0;
   }
   .post h1 {
     margin: 0 0 1rem 0;
+    font-size: 2rem;
   }
   .post h1:hover {
     opacity: 0.6;
@@ -54,7 +55,8 @@
     margin-bottom: 5vw;
     cursor: pointer;
   }
+
   .img {
-    height: 50vh;
+    height: 25vh;
   }
 </style>
