@@ -21,12 +21,16 @@
 </script>
 
 <style scoped>
+
+  .journal_list {
+    
+  }
   .title {
     cursor: pointer;
   }
   .post {
-    padding: 2rem 0;
     border: 1px solid #eee;
+    padding: 2rem 0;
   }
   .post:last-of-type {
     border: 0;
@@ -45,7 +49,7 @@
     position: relative;
     width: 100%;
     height: 70vh;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin-bottom: 5vw;
