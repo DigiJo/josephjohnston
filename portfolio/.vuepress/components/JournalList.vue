@@ -42,10 +42,10 @@
     color: #333;
   }
     .post {
-    position: relative;
+    position: absolute;
     width: 100%;
     height: 70vh;
-    background-size: 50vh;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     margin-bottom: 5vw;
