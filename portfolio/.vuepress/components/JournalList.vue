@@ -42,7 +42,7 @@
     color: #333;
   }
     .post {
-    position: absolute;
+    position: relative;
     width: 100%;
     height: 70vh;
     background-size: contain;
