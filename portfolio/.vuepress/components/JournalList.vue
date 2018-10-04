@@ -44,8 +44,8 @@
     .post {
     position: relative;
     width: 100%;
-    height: 30vh;
-    background-size: cover;
+    height: 70vh;
+    background-size: 50vh;
     background-position: center;
     background-repeat: no-repeat;
     margin-bottom: 5vw;
