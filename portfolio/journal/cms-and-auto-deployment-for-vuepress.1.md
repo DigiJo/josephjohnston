@@ -1,9 +1,13 @@
 ---
 title: Content management and auto deployment for vuepress
-date: 2018-08-09
+date: 2018-08-09 17:49:28 +0000
 excerpt: This works like expected, this text is only visible on the front page where
   all the journal posts are listed
 thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
+categories:
+- Consultant
+- SEO
+- DigiJo
 year: 2018
 ---
 
