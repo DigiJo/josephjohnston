@@ -3,9 +3,7 @@
     <div v-for="post in journal" :key="post.title" class="post">
       <router-link tag="h1" :to="post.path" class="title">{{ post.frontmatter.title }}</router-link>
       <p>{{ post.frontmatter.excerpt }}</p>
-      <p>{{ post.frontmatter.year }}</p>
-      <p>{{ post.frontmatter.categories }}</p>
-
+      <h4>{{ post.frontmatter.year }} | {{ post.frontmatter.categories }}</h4>
       <img :src="post.frontmatter.thumbnail">
     </div>
   </div>
