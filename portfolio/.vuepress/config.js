@@ -1,5 +1,6 @@
 const config = require('../config.json');
 module.exports = {
+  lang: 'en-UK',
   title: config.title,
   description: config.description,
   base: "/",
