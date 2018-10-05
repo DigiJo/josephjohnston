@@ -1,0 +1,9 @@
+{
+  "name": "Joe Johnston",
+  "short_name": "Joe Johnston",
+  "theme_color": "#ffffff",
+  "background_color": "#333333",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
