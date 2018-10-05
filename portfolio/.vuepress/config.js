@@ -3,6 +3,7 @@ module.exports = {
   title: config.title,
   description: config.description,
   base: "/",
+  ga: 'UA-127022296-1',
   themeConfig: {
     logo: config.logo,
     footer: config.footer,
