@@ -3,13 +3,13 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 125 125" style="enable-background:new 0 0 125 125;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#222323;stroke-width:2;stroke-miterlimit:10;}
-	.st1{fill:#222323;}
+	.st0{fill:#222323;}
+	.st1{fill:none;stroke:#222323;stroke-width:2;stroke-miterlimit:10;}
 </style>
-<rect class="st0" width="125" height="125"/>
-<polygon class="st1" points="38.5,24.6 86.9,11.2 86.9,24.1 38.5,36.9 "/>
-<path class="st1" d="M38.5,48.5l23.9-6.2l0.1,27.4c0,0,0.9,10.9-12.3,16.9c0,0-8.5,3-12.1,0V74.8c0,0,12.1,1.7,12.3-9.7l0.2-7.2
+<polygon class="st0" points="38.5,24.6 86.9,11.2 86.9,24.1 38.5,36.9 "/>
+<path class="st0" d="M38.5,48.5l23.9-6.2l0.1,27.4c0,0,0.9,10.9-12.3,16.9c0,0-8.5,3-12.1,0V74.8c0,0,12.1,1.7,12.3-9.7l0.2-7.2
 	l-12,3.1V48.5z"/>
-<path class="st1" d="M86.8,35.7l-12.5,3.2V76c0,0,0.1,9.9-11.8,19.5c0,0-6.8,4.5-12.2,4.9s-8.5,0.7-11.9-0.2V112
+<path class="st0" d="M86.8,35.7l-12.5,3.2V76c0,0,0.1,9.9-11.8,19.5c0,0-6.8,4.5-12.2,4.9s-8.5,0.7-11.9-0.2V112
 	c0,0-0.9,1.5,11.9,1.9c0,0,0,0,0,0c0.5,0,8.1-0.7,15.2-4.1c0,0,12.8-5,19.1-21.8c0,0,2.2-7,2.2-22.8S86.8,35.7,86.8,35.7z"/>
+<path class="st1" d="M125,125H0V0h125V125z"/>
 </svg>
