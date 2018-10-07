@@ -133,7 +133,7 @@
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    left: 50%;
+    left: 12%;
     top: 50%;
     transform: translate(-50%,-50%);
   }
@@ -243,6 +243,9 @@
     }
     .mobile-nav-toggle {
       display: none;
+    }
+    .logo {
+      left: 50%;
     }
     .mobile-nav {
       display: none;
