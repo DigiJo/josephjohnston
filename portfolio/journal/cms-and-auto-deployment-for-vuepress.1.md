@@ -1,8 +1,8 @@
 ---
-title: Content management and auto deployment for vuepress
+title: What are you at Joe? Is this a new Belfast Blog?
+Description: I have not lost the plot but I have found a space to express my insights and minor knowledge. Read this post for an introduction to my life and my digital literary journey.
 date: 2018-08-09 17:49:28 +0000
-excerpt: This works like expected, this text is only visible on the front page where
-  all the journal posts are listed
+excerpt: I have not lost the plot but I have found a space to express my insights and minor knowledge. Read this post for an introduction to my life and my digital literary journey.
 thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
 categories: SEO
 year: 2018
