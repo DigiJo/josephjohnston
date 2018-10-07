@@ -1,6 +1,6 @@
 ---
 title: What are you at Joe? Is this a new Belfast Blog?
-Description: I have not lost the plot but I have found a space to express my insights and minor knowledge. Read this post for an introduction to my life and my digital literary journey.
+description: I have not lost the plot but I have found a space to express my insights and minor knowledge. Read this post for an introduction to my life and my digital literary journey.
 date: 2018-08-09 17:49:28 +0000
 excerpt: I have not lost the plot but I have found a space to express my insights and minor knowledge. Read this post for an introduction to my life and my digital literary journey.
 thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
