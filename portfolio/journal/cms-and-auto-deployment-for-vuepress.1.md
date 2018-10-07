@@ -9,7 +9,7 @@ year: 2018
 ---
 
 
-# Content management and auto deployment for Vuepress
+# What are you at Joe? Is this a new Belfast Blog?
 
 ![](/upload/photo-1490013616775-3ca8865fb129.jpeg)
 
