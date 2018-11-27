@@ -12,7 +12,7 @@ year: 2018
 
 ![](/upload/photo-1490013616775-3ca8865fb129.jpeg)
 
-When someone whom you respect,  approaches you with a business proposal, you listen. When their idea, passes your gut validation, you get excited. When their vision of how a business should operate aligns with your vision, you fall in love with the product instantly. Your future brightens. 
+When someone whom you respect,  approaches you with a business proposal, you listen. When their idea passes your gut validation, you get excited. When their vision of how a business should operate aligns with your vision, you fall in love with the product instantly. Your future brightens. 
 
 Respect, idea validation, shared vision. The 3 components of cofounder validation.
 
