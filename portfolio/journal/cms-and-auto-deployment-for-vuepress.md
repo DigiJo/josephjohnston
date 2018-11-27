@@ -1,8 +1,7 @@
 ---
-title: Content management and auto deployment for vuepress
+title: Cofounder validation
 date: 2018-08-09 17:49:28 +0000
-excerpt: This works like expected, this text is only visible on the front page where
-  all the journal posts are listed
+excerpt: Respect, idea validation, shared vision. The 3 components of cofounder validation
 thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
 categories: SEO
 year: 2018
