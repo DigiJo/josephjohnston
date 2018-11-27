@@ -8,7 +8,7 @@ year: 2018
 ---
 
 
-# What are you at Joe? Is this a new Belfast Blog?
+# Cofounder Validation
 
 ![](/upload/photo-1490013616775-3ca8865fb129.jpeg)
 
